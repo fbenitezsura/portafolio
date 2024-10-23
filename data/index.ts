@@ -72,29 +72,29 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Casino Online Juegalo",
+    title: "Juegalo - Casino Online",
     des: "Desarrollo de un casino online con tecnologias modernas y escalables.",
     img: "/j1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://juegalo.com",
   },
-  /*{
+  {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
+    title: "Quantum Foro - Buscador",
+    des: "Encuentra los emprendedores recomendados de tu zona.",
+    img: "/j2.png", 
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://quantumforo.vercel.app",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: "Betnroll - Casino Online",
+    des: "Desarrollo de un casino online multiregional con tecnologias modernas y escalables.",
+    img: "/j3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://betnroll.net",
   },
-  {
+  /*{
     id: 4,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
@@ -107,31 +107,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Colaborar con Felipe fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Adrian por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Adrian es el socio ideal.",
+      "Colaborar con Felipe fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Felipe por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Felipe es el socio ideal.",
     name: "Hector Flores",
     title: "CEO Muebleria Flores",
   },
   {
     quote:
-      "Colaborar con Felipe fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Adrian por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Adrian es el socio ideal.",
+      "Colaborar con Felipe fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Felipe por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Felipe es el socio ideal.",
     name: "Hector Flores",
     title: "CEO Muebleria Flores",
   },
   {
     quote:
-      "Colaborar con Felipe fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Adrian por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Adrian es el socio ideal.",
+      "Colaborar con Felipe fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Felipe por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Felipe es el socio ideal.",
     name: "Hector Flores",
     title: "CEO Muebleria Flores",
   },
   {
     quote:
-      "Colaborar con Felipe fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Adrian por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Adrian es el socio ideal.",
+      "Colaborar con Felipe fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Felipe por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Felipe es el socio ideal.",
     name: "Hector Flores",
     title: "CEO Muebleria Flores",
   },
   {
     quote:
-      "Colaborar con Felipe fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Adrian por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Adrian es el socio ideal.",
+      "Colaborar con Felipe fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Felipe por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Felipe es el socio ideal.",
     name: "Hector Flores",
     title: "CEO Muebleria Flores",
   },
